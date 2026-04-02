@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * 主类（项目启动入口）
- * xdl
+ *
  * @author <a href="https://github.com/China-Rainbow-sea/">RainbowSea</a>
  * @from <a href="https://rainbowsea.blog.csdn.net/">RainbowSea15博客</a>
  */
